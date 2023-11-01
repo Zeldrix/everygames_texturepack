@@ -53,6 +53,96 @@
             "height": 9,
             "ascent": 8,
             "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/staff/admin.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/staff/dev.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/staff/builder.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/staff/super-mod.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/staff/mod.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/staff/helper.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/vip/vip.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/vip/vip+.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/vip/vip++.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:grades/vip/boost.png",
+            "chars": [
+                ""
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
         }
     ]
 }
