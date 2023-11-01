@@ -118,7 +118,7 @@
             "type": "bitmap"
         },
         {
-            "file": "3etiquettes:grades/vip/vip+.png",
+            "file": "3etiquettes:grades/vip/vip-plus.png",
             "chars": [
                 "⼇"
             ],
@@ -127,7 +127,7 @@
             "type": "bitmap"
         },
         {
-            "file": "3etiquettes:grades/vip/vip++.png",
+            "file": "3etiquettes:grades/vip/vip-plus-plus.png",
             "chars": [
                 "⼈"
             ],
