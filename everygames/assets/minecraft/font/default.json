@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "file": "1logo:everygames_title.png",
+            "chars": [
+                "他"
+            ],
+            "height": 75,
+            "ascent": 31,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:hologramme/craft_royale.png",
+            "chars": [
+                "探"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:hologramme/valorant.png",
+            "chars": [
+                "这"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:hologramme/boutique.png",
+            "chars": [
+                "端"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:hologramme/vote.png",
+            "chars": [
+                "旧"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "3etiquettes:hologramme/ip.png",
+            "chars": [
+                "湖"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        }
+    ]
+}
